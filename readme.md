@@ -4,7 +4,7 @@
 ![OOP](https://img.shields.io/badge/OOP-Principles-blue)
 ![Status](https://img.shields.io/badge/Projects-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)
-![Author](https://img.shields.io/badge/Author-Manirabona_Patience-blueviolet)
+![Author](https://img.shields.io/badge/Author-Jospin_Nabonyimana-blueviolet)
 
 Welcome to a professional collection of **Java-based console applications** built with **Object-Oriented Programming (OOP)**. These projects demonstrate real-world system simulations with modular code, clean structure, and effective input validation.
 
