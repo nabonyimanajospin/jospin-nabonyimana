@@ -6,6 +6,12 @@
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)
 ![Author](https://img.shields.io/badge/Author-Jospin_Nabonyimana-blueviolet)
 
+## 👨🏽‍💻 My names
+
+- **Nabonyimana Jospin  (26511)**  ![Badge](https://img.shields.io/badge/Self-work-green)
+
+---
+
 Welcome to a professional collection of **Java-based console applications** built with **Object-Oriented Programming (OOP)**. These projects demonstrate real-world system simulations with modular code, clean structure, and effective input validation.
 
 ## 📁 Included Projects
